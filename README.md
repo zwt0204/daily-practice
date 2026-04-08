@@ -7,11 +7,8 @@ LeetCode / Hot100 日常练习笔记仓库。
 - 题目按题号命名
 - 包含思路、复杂度、边界点和示例代码
 
-## 文件示例
-- `0001_Two Sum.md`
-- `0005_Longest Palindromic Substring.md`
-- `0020_Valid Parentheses.md`
-- `note_utils.py`
-
 ## 说明
-这是从本机已有练习笔记中整理出的独立项目，便于持续补全、版本管理和同步到 GitHub。
+该仓库由本机目录自动同步生成：
+- 源目录：`/root/.openclaw/workspace/agents/test-engineer/hot100_notes`
+
+可通过同步脚本一键更新并推送到 GitHub。
